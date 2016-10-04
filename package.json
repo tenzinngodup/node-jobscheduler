@@ -1,6 +1,6 @@
 {
   "name": "node-jobscheduler",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Node APi for job scheduler",
   "main": "index.js",
   "scripts": {
