@@ -1,0 +1,22 @@
+{
+  "name": "node-jobscheduler",
+  "version": "1.0.0",
+  "description": "Node APi for job scheduler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tenzinngodup/node-jobscheduler.git"
+  },
+  "keywords": [
+    "jobscheduler"
+  ],
+  "author": "Tenzin Ngodup",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tenzinngodup/node-jobscheduler/issues"
+  },
+  "homepage": "https://github.com/tenzinngodup/node-jobscheduler#readme"
+}
