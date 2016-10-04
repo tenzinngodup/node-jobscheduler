@@ -4,7 +4,7 @@ Node module to interface with jobscheduler.
 
 _installation_
 ```
-npm install node-jobsceduler
+npm install node-jobscheduler
 ```
 _setup_
 ```
